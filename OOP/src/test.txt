@@ -1,0 +1,2 @@
+Run Earth.java since it contains main
+Run Zoo.java since it contains main
